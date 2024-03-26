@@ -1,6 +1,6 @@
 # Car-Number-Plates-Detection
- This Repository holds: /n
+ #This Repository holds: 
   
- Collect and Analyse user sample Data from various data sets.
-  Component of the vision project.
-  Supervise Implementations of Recommendations.
+ # 1. Collect and Analyse user sample Data from various data sets.
+  # 2.Component of the vision project.
+  # 3.Supervise Implementations of Recommendations.
