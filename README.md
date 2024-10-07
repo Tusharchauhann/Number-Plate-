@@ -1,6 +1,4 @@
 # Car-Number-Plates-Detection
  #This Repository holds: 
   
- # 1. Collect and Analyse user sample Data from various data sets.
-  # 2.Component of the vision project.
-  # 3.Supervise Implementations of Recommendations.
+  # This repository is made to detect the Indian car number plate via the OpenCv library as it detects the number of the car as soon car passes by and capture multiple images of it.
